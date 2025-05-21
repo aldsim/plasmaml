@@ -24,5 +24,5 @@ The dataset is broken down into training and testing sets. Each set comprises th
 
 ## Authors
 
-- Angel Yanguas-Gil ( ayg-at-anl.gov)
+- Angel Yanguas-Gil
 - Jeffrey W. Elam
